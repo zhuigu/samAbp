@@ -4,5 +4,12 @@ zmq.dmool.com##.gohome
 zmq.dmool.com##.navbar-right
 zmq.dmool.com###page-wrapper > div.footer:last-child
 
+! 肥猫TV
 xn--z7x900a.love###myhkplayer
-xn--z7x900a.love##.fixed.background
+xn--z7x900a.love##.hans-container
+xn--z7x900a.love##.ch.gate
+xn--z7x900a.love##.cover
+xn--z7x900a.love###startrack
+xn--z7x900a.love##.intro.ch
+xn--z7x900a.love##.about.ch
+xn--z7x900a.love##.background
