@@ -16,3 +16,7 @@ xn--z7x900a.love##.background
 ||api.vvhan.com/api/snow
 ||eqcn.ajz.miesnfu.com/wp-content/plugins/wp-3d-pony/live2dw/lib^
 ||myhkw.cn/api/player^
+
+! https://apphot.cc
+apphot.cc##.branding-black.branding
+apphot.cc##.sidebar
