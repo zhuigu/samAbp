@@ -13,3 +13,5 @@ xn--z7x900a.love###startrack
 xn--z7x900a.love##.intro.ch
 xn--z7x900a.love##.about.ch
 xn--z7x900a.love##.background
+||api.vvhan.com/api/snow
+||eqcn.ajz.miesnfu.com/wp-content/plugins/wp-3d-pony/live2dw/lib^
