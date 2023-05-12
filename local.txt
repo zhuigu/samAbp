@@ -1,0 +1,5 @@
+###mhbottom_ad_box
+##.ibox-title
+##.gohome
+##.navbar-right
+###page-wrapper > div.footer:last-child
