@@ -1,5 +1,8 @@
 ###mhbottom_ad_box
-##.ibox-title
-##.gohome
-##.navbar-right
-###page-wrapper > div.footer:last-child
+zmq.dmool.com##.ibox-title
+zmq.dmool.com##.gohome
+zmq.dmool.com##.navbar-right
+zmq.dmool.com###page-wrapper > div.footer:last-child
+
+xn--z7x900a.love###myhkplayer
+xn--z7x900a.love##.fixed.background
