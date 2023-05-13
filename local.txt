@@ -1,3 +1,13 @@
+! 333ys.tv
+333ys.tv##div.textblue:nth-of-type(3)
+333ys.tv##div.clearfix.myui-panel-bg.myui-panel:nth-of-type(1)
+333ys.tv###cjwt
+333ys.tv##.clearfix.myui-foot
+333ys.tv##.login
+333ys.tv##.fa-android.fa
+333ys.tv##a.item:nth-of-type(3)
+||333ys.tv/ljty.js^
+
 ###mhbottom_ad_box
 zmq.dmool.com##.ibox-title
 zmq.dmool.com##.gohome
