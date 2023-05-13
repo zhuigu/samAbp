@@ -17,7 +17,7 @@
 ||333ys.tv/ljty.js^
 
 ! http://www.lezhutv.com
-||lib.baomitu.com^
+
 ||sdk.51.la/js-sdk-pro.min.js
 lezhutv.com##div.tabs.tbox:nth-of-type(7)
 lezhutv.com##div.tabs.tbox:nth-of-type(5)
