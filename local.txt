@@ -16,6 +16,13 @@
 333ys.tv###syad5
 ||333ys.tv/ljty.js^
 
+! http://www.lezhutv.com
+||lib.baomitu.com^
+www.lezhutv.com##div.tabs.tbox:nth-of-type(7)
+www.lezhutv.com##div.tabs.tbox:nth-of-type(5)
+www.lezhutv.com##div.srh:nth-of-type(3)
+www.lezhutv.com##.foot
+
 ###mhbottom_ad_box
 zmq.dmool.com##.ibox-title
 zmq.dmool.com##.gohome
