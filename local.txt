@@ -6,6 +6,11 @@
 333ys.tv##.login
 333ys.tv##.fa-android.fa
 333ys.tv##a.item:nth-of-type(3)
+333ys.tv##div.textblue:nth-of-type(7)
+333ys.tv##.close-box.tips
+333ys.tv##.padding-0.col-xs-1.col-md-wide-7.col-lg-wide-75
+333ys.tv###syad4
+333ys.tv###syad5
 ||333ys.tv/ljty.js^
 
 ###mhbottom_ad_box
