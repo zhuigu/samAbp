@@ -18,16 +18,17 @@
 
 ! http://www.lezhutv.com
 ||lib.baomitu.com^
-www.lezhutv.com##div.tabs.tbox:nth-of-type(7)
-www.lezhutv.com##div.tabs.tbox:nth-of-type(5)
-www.lezhutv.com##div.srh:nth-of-type(3)
-www.lezhutv.com##.foot
+||sdk.51.la/js-sdk-pro.min.js
+lezhutv.com##div.tabs.tbox:nth-of-type(7)
+lezhutv.com##div.tabs.tbox:nth-of-type(5)
+lezhutv.com##div.srh:nth-of-type(3)
+lezhutv.com##.foot
 
 ###mhbottom_ad_box
-zmq.dmool.com##.ibox-title
-zmq.dmool.com##.gohome
-zmq.dmool.com##.navbar-right
-zmq.dmool.com###page-wrapper > div.footer:last-child
+dmool.com##.ibox-title
+dmool.com##.gohome
+dmool.com##.navbar-right
+dmool.com###page-wrapper > div.footer:last-child
 
 ! 肥猫TV
 xn--z7x900a.love###myhkplayer
