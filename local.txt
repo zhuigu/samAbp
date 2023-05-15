@@ -28,6 +28,7 @@ dmool.com##.ibox-title
 dmool.com##.gohome
 dmool.com##.navbar-right
 dmool.com###page-wrapper > div.footer:last-child
+@@||dmool.com/admin/ad^
 
 ! 肥猫TV
 xn--z7x900a.love###myhkplayer
