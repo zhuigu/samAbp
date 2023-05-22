@@ -1,3 +1,6 @@
+! userupload.in
+||userupload.in/assets/js^
+
 ! app.people.cn
 people.cn##div.topicWidth:nth-of-type(4)
 people.cn##.g-main > div.topicWidth
