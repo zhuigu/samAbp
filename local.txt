@@ -2,7 +2,7 @@
 userupload.net##.fc-ab-root
 
 ! userupload.in
-||userupload.in/assets/js^
+||userupload.in/assets/js
 
 ! app.people.cn
 people.cn##div.topicWidth:nth-of-type(4)
@@ -27,7 +27,7 @@ people.cn##.g-main > div.topicWidth
 333ys.tv##.close-box.tips
 333ys.tv###syad4
 333ys.tv###syad5
-||333ys.tv/ljty.js^
+||333ys.tv/ljty.js
 
 ! http://www.lezhutv.com
 ||sdk.51.la/js-sdk-pro.min.js
@@ -53,8 +53,8 @@ xn--z7x900a.love##.intro.ch
 xn--z7x900a.love##.about.ch
 xn--z7x900a.love##.background
 ||api.vvhan.com/api/snow
-||eqcn.ajz.miesnfu.com/wp-content/plugins/wp-3d-pony/live2dw/lib^
-||myhkw.cn/api/player^
+||eqcn.ajz.miesnfu.com/wp-content/plugins/wp-3d-pony/live2dw/lib
+||myhkw.cn/api/player
 
 ! https://apphot.cc
 apphot.cc##.branding-black.branding
