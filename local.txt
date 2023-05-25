@@ -1,3 +1,33 @@
+! baidu
+cpro.baidu.com
+cpro.baidustatic.com
+wn.pos.baidu.com
+lupic.cdn.bcebos.com
+s3m.mediav.com
+live-s3m.mediav.com
+s3m4.fenxi.com
+s3m6.fenxi.com
+tieba-ares.cdn.bcebos.com
+ns-strategy.cdn.bcebos.com
+fc1tn.baidu.com
+s3m.nzwgs.com
+bj.bcebos.com
+tieba-ares.cdn.bcebos.com
+fc-image.cdn.bcebos.com
+s3m6.nzwgs.com
+s3m1.fenxi.com
+s3m4.nzwgs.com
+s3m3.nzwgs.com
+s3m2.fenxi.com
+s3m3.fenxi.com
+p3.ssl.qhimgs0.com
+fc2tn.baidu.com
+fc4tn.baidu.com
+fc5tn.baidu.com
+s3m5.fenxi.com
+s3m2.nzwgs.com
+s3m1.nzwgs.com
+
 ! userupload.net
 userupload.net##.fc-ab-root
 
