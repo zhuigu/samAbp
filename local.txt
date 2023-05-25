@@ -1,4 +1,4 @@
-! baidu
+! 百度
 cpro.baidu.com
 cpro.baidustatic.com
 wn.pos.baidu.com
