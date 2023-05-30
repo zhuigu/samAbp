@@ -1,6 +1,7 @@
 ! csdn.net
 blog.csdn.net##.clearfix.align-items-stretch.recommend-right
 blog.csdn.net##.common-nps-box.aside-box
+blog.csdn.net##.common-nps-box.recommend-nps-box
 
 
 ! 百度
