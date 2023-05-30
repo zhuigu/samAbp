@@ -1,3 +1,8 @@
+! csdn.net
+blog.csdn.net##.clearfix.align-items-stretch.recommend-right
+blog.csdn.net##.common-nps-box.aside-box
+
+
 ! 百度
 tieba.baidu.com##div.footer-wrap
 tieba.baidu.com##div.top-guide-wrap
