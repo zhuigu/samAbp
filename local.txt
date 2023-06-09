@@ -89,8 +89,8 @@ people.cn##.g-main > div.topicWidth
 ||333ys.tv/ljty.js
 
 ! http://www.lezhutv.com
-||lgecqrb.com
-||nezqmud.com
+||lgecqrb.com^
+||nezqmud.com^
 lezhutv.com/static/deny.js
 nezqmud.com
 ||sdk.51.la/js-sdk-pro.min.js
