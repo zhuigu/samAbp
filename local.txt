@@ -88,17 +88,6 @@ people.cn##.g-main > div.topicWidth
 333ys.tv###syad5
 ||333ys.tv/ljty.js
 
-! http://www.lezhutv.com
-||mg.nezqmud.com:8001
-||mcc.lgecqrb.com:8001
-lezhutv.com/static/deny.js
-nezqmud.com
-||sdk.51.la/js-sdk-pro.min.js
-lezhutv.com##div.tabs.tbox:nth-of-type(7)
-lezhutv.com##div.tabs.tbox:nth-of-type(5)
-lezhutv.com##div.srh:nth-of-type(3)
-lezhutv.com##.foot
-
 ###mhbottom_ad_box
 dmool.com##.ibox-title
 dmool.com##.gohome
