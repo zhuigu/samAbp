@@ -4,6 +4,7 @@
 huya.com##.room-footer
 huya.com##.tip-bg-common-new.diy-activity-icon-bubble-tips
 huya.com##.mod-sidebar
+huya.com##.sidebar-show
 
 ! csdn.net
 blog.csdn.net##.clearfix.align-items-stretch.recommend-right
