@@ -5,6 +5,9 @@ huya.com##.room-footer
 huya.com##.tip-bg-common-new.diy-activity-icon-bubble-tips
 huya.com##.mod-sidebar
 huya.com##.sidebar-show
+huya.com##.room-sidebar-hd
+huya.com###chat-room__list > div:nth-of-type(1)
+huya.com###chat-room__list > div:nth-of-type(2)
 
 ! csdn.net
 blog.csdn.net##.clearfix.align-items-stretch.recommend-right
