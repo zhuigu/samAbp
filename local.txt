@@ -3,6 +3,7 @@
 ! 虎牙
 huya.com##.room-footer
 huya.com##.tip-bg-common-new.diy-activity-icon-bubble-tips
+huya.com##.mod-sidebar
 
 ! csdn.net
 blog.csdn.net##.clearfix.align-items-stretch.recommend-right
