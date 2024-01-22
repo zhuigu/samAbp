@@ -107,7 +107,7 @@ dmool.com##.navbar-right
 dmool.com###page-wrapper > div.footer:last-child
 @@||dmool.com/admin/ad
 
-! 肥猫TV
+!肥猫TV
 xn--z7x900a.love###myhkplayer
 xn--z7x900a.love##.hans-container
 xn--z7x900a.love##.ch.gate
@@ -120,6 +120,9 @@ xn--z7x900a.love##.background
 ||eqcn.ajz.miesnfu.com/wp-content/plugins/wp-3d-pony/live2dw/lib
 ||myhkw.cn/api/player
 
-! https://apphot.cc
+!https://apphot.cc
 apphot.cc##.branding-black.branding
 apphot.cc##.sidebar
+
+!今日头条
+toutiao.com##.ttp-portal-anime-show.ttp-portal-show.ttp-message-wrapper.ttp-portal-wrapper
