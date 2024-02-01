@@ -1,9 +1,13 @@
-firebaseinstallations.googleapis.com
-webcast5-open-lf.douyin.com
-googleadservices.com
-firebaseinstallations.googleapis.com
-dm-hl.toutiao.com
-mssdk-bu.bytedance.com
-dm.toutiao.com
-*.pglstatp-toutiao.com
-lf-cdn-tos.bytescm.com
+127.0.0.1	firebaseinstallations.googleapis.com
+127.0.0.1	googleadservices.com
+127.0.0.1	firebaseinstallations.googleapis.com
+127.0.0.1	dm-hl.toutiao.com
+127.0.0.1	mssdk-bu.bytedance.com
+127.0.0.1	dm.toutiao.com
+127.0.0.1	webcast5-open-lf.douyin.com
+127.0.0.1	*.pglstatp-toutiao.com
+127.0.0.1	api-access.pangolin-sdk-toutiao.com
+127.0.0.1	lf-cdn-tos.bytescm.com
+127.0.0.1	adxserver.ad.cmvideo.cn
+127.0.0.1	betagame.migufun.com
+127.0.0.1	audid-api.taobao.com
