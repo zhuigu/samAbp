@@ -1,5 +1,7 @@
 ! Title:SamLocal
-
+! CSDN
+mp.csdn.net###nps-box
+mp.csdn.net##.csdn-side-toolbar
 ! 虎牙
 huya.com##.room-footer
 huya.com##.tip-bg-common-new.diy-activity-icon-bubble-tips
