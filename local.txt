@@ -103,6 +103,7 @@ people.cn##.g-main > div.topicWidth
 
 
 ###mhbottom_ad_box
+dmool.com##.ibox-title
 dmool.com##.gohome
 dmool.com###page-wrapper > div.footer:last-child
 @@||dmool.com/admin/ad
