@@ -16,6 +16,8 @@ blog.csdn.net##.clearfix.align-items-stretch.recommend-right
 blog.csdn.net##.common-nps-box.aside-box
 blog.csdn.net##.common-nps-box.recommend-nps-box
 
+! 魅族允许js
+@@||tongji-res.meizu.com/resources/tongji/flow.js$script,domain=developer.meizu.com
 
 ! 百度
 tieba.baidu.com##div.footer-wrap
@@ -105,6 +107,7 @@ people.cn##.g-main > div.topicWidth
 ###mhbottom_ad_box
 dmool.com##.ibox-title
 dmool.com##.gohome
+www.dmool.com##div.row:nth-of-type(2)
 dmool.com###page-wrapper > div.footer:last-child
 @@||dmool.com/admin/ad
 
