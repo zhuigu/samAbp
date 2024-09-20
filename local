@@ -43,6 +43,9 @@ baidu.com##.welcome-banner
 baidu.com##.j_footer
 baidu.com###tab_news_1
 baidu.com##div.wa-guanfanghao-main
+@@||api.map.baidu.com^
+@@||dlswbr.baidu.com^
+@@||miao.baidu.com/abdr
 
 cpro.baidu.com
 cpro.baidustatic.com
