@@ -3,7 +3,7 @@
 https://raw.staticdn.net/zhuigu/samAbp/main/local
 
 https://cdn.jsdelivr.net/gh/zhuigu/samAbp/local
-
+https://raw.staticdn.net/zhuigu/samAbp/main/samAdhell
 
 其它
 adguard中文
