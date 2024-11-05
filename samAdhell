@@ -1,4 +1,45 @@
 ! Title:SamAdhell
+#快手
+p2-ad.adbkwai.com
+p4-ad.adbkwai.com
+p5-ad.adbkwai.com
+open.e.kuaishou.com
+#百度
+mobads.baidu.com
+bes-mtj.baidu.com
+# 极光
+sdk.beizi.biz
+api-htp.beizi.biz
+# 优量汇
+sdk.e.qq.com
+
+# 友盟（淘宝系列）
+vcs.snssdk.com
+toblog.ctobsnssdk.com
+aspect-upush.umeng.com
+toblog.ctobsnssdk.com
+
+# 字节系列
+dm.bytedance.com
+api-access.pangolin-sdk-toutiao.com
+api-access.pangolin-sdk-toutiao1.com
+dm-hl.toutiao.com
+webcast-open.douyin.com
+
+# 小米
+tz.sec.xiaomi.com
+api.installer.xiaomi.com
+api.micloud.xiaomi.net
+api.sec.miui.com
+app.market.xiaomi.com
+data.sec.miui.com
+find.api.micloud.xiaomi.net
+jupiter.sys.miui.com
+statusapi.micloud.xiaomi.net
+
+adsmind.ugdtimg.com
+
+
 wangchun1.cn
 abe.ymmiyun.com
 aba.51korean.com
@@ -11677,7 +11718,6 @@ sdk-open-phone.getui.com
 sdk.api.gamex.mobile.youku.com
 sdk.api.oaid.wocloud.cn
 sdk.appadhoc.com
-sdk.beizi.biz
 sdk.cdnmaster.com
 sdk.cferw.com
 sdk.cmgame.com
